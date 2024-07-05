@@ -1,0 +1,28 @@
+table,tr, td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+.white{
+    height: 50px;
+    width: 50px;
+}
+
+.black{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+table{
+    margin: auto;
+    margin-top: 5%;
+    height: 550px;
+    width: 550px;
+
+}
+
+h1{
+    text-align: center;
+    text-decoration:underline;
+}
